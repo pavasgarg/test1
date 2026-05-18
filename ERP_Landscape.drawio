@@ -2304,6 +2304,9 @@
         <mxCell id="L7k-vVW9VMf8lWQmExX8-62" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=2;" value="&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Service Now&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="340" width="790" x="880" y="1360" as="geometry" />
         </mxCell>
+        <mxCell id="uEYU3nEoMrbx6NulotkY-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" value="Check with Procurement for different Role_Level available" vertex="1">
+          <mxGeometry height="70" width="155" x="315" y="1220" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
